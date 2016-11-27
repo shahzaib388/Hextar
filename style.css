@@ -1,0 +1,19 @@
+.one{
+	background-image: url(http://www.fieldsync.net/files/2113/6460/9808/banner_agriculture.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+
+.jumbotron h1{
+	color: white;
+}
+
+.jumbotron h4{
+	color: white;
+}
+
+.two{
+	background-color: green;
+}
